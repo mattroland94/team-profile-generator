@@ -1,0 +1,33 @@
+.navbar-header {
+    float: left;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar {
+    background: red;
+    color: white;
+}
+
+.card {
+    margin: 20px;
+    padding: 0;
+}
+
+.card-header {
+    background: blue;
+}
+
+.card-title {
+    color: white;
+}
+
+.text-muted {
+    color: white;
+}
+
+.list-group {
+    margin: 10px;
+    border: solid 2px rgb(128, 128, 128, 0.205);
+}
